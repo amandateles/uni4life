@@ -15,5 +15,3 @@ Projeto com fim acadêmico e focado para aprendizado e desenvolvimento pessoal.
 ## Editor / IDE usada
 
 - Visual Studio Code
-
-## Editor / IDE usada
